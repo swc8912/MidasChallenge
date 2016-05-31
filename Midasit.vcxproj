@@ -21,8 +21,9 @@
   <PropertyGroup Label="Globals">
     <ProjectGuid>{06B5FE63-351F-44DE-99D1-612D7A0ECC9C}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>Midasit</RootNamespace>
+    <RootNamespace>MidasChallenge</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
+    <ProjectName>MidasChallenge</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
